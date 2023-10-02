@@ -5,6 +5,7 @@ This is my boilerplate for creating a React front-end for Wordpress as headless 
 ## Configuration
 
 Set API URI in config.js
+### 'WP_API_URI: "http://domain.com/index.php/wp-json/wp/v2/"'
 
 ## React Scripts
 
