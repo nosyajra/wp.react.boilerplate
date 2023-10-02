@@ -1,0 +1,18 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.container{
+    width:100%;
+    max-width: 1920px;
+    margin:0 auto;
+    padding:0 15px;
+}
+
+li {
+    font-weight:300;
+    line-height: 1.5em;
+    margin-bottom:15px;
+}
+
+@import 'grid';
